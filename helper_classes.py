@@ -9,7 +9,7 @@ class Cartesian:
 
 class Driver:
     def __init__(self, distance=0.0, route=[]):
-        self.distanceTravelled = distancegit
+        self.distanceTravelled = distance
         self.route = route
 
 class DriverLoad:
